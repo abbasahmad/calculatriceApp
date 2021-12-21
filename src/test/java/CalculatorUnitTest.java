@@ -72,7 +72,7 @@ public class CalculatorUnitTest {
     }
     
     
-    @Ignore
+    
     @Test
     public void racineCarreTest() {
     	
